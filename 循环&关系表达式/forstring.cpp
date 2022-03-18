@@ -3,7 +3,7 @@
 //
 #include "../header/base.h"
 
-int main(){
+int main7(){
     using namespace std;
     //·´×ª×Ö·û´®
     string input;
