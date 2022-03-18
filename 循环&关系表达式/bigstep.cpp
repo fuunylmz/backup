@@ -2,7 +2,7 @@
 // Created by fuuny_lmz on 2022-03-17.
 //
 #include "../header/base.h"
-int main(){
+int main6(){
     using std::cout;
     using std::cin;
     using std::endl;
