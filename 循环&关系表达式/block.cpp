@@ -3,7 +3,7 @@
 //
 
 #include "../header/base.h"
-int main(){
+int main10(){
     using namespace std;
     int x = 20;
     {
