@@ -8,7 +8,7 @@ int main(){
     for(char ch = 'a';word != "word";ch++){
         cout << word << endl;
         word[0] = ch;
-
     }
+    system("pause");
     return 0;
 }
