@@ -1,3 +1,0 @@
-C:/Users/fuuny_lmz/CLionProjects/test/cmake-build-release-visual-studio/CMakeFiles/test.dir
-C:/Users/fuuny_lmz/CLionProjects/test/cmake-build-release-visual-studio/CMakeFiles/ALL_BUILD.dir
-C:/Users/fuuny_lmz/CLionProjects/test/cmake-build-release-visual-studio/CMakeFiles/ZERO_CHECK.dir
