@@ -5,7 +5,7 @@
 using namespace std;
 int sum_add(const int* arr,size_t size);
 
-int main(){
+int main38(){
     int arr[] = {1,2,4,8,16,32,64,128,256};
     int* a = new int;
     delete a;
