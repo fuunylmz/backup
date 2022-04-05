@@ -1,10 +1,10 @@
 //
 // Created by fuuny_lmz on 2022/4/1.
-//41
+//42
 #include "../header/base.h"
 unsigned int char_in_str(const char * ,char);
 
-int main(){
+int main42(){
     char* str = "nnew";
     std::cout << char_in_str(str,'n') ;
     return 0;
