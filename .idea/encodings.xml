@@ -6,10 +6,12 @@
     <file url="file://$PROJECT_DIR$/newAndDelete.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/struct.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/vector.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/函数/arrayFunctionPointer.cpp" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/函数/arrayobject.cpp" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/函数/arrfunction1.cpp" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/函数/arrfunction3.cpp" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/函数/arrfunction4.cpp" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/函数/function_ptr.cpp" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/函数/topfive.cpp" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/函数/travel.cpp" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/函数/twoarg.cpp" charset="UTF-16" />
