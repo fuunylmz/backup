@@ -6,7 +6,7 @@ void swap(int &a,int &b);
 void swap(int *,int*);
 void swap(int a,int b);
 
-int main(){
+int main57(){
     int a = 100;
     int b = 200;
     int* a_ptr = &a;
