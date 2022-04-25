@@ -8,7 +8,7 @@ size_t left(size_t num,size_t ct);
 int main62(){
     char * ret_ptr = left("test");
     cout << ret_ptr << endl;
-    cout << left(456,1);
+    cout << left(456123,5);
     delete[] ret_ptr;
     return 0;
 }
